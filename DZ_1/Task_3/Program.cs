@@ -1,4 +1,5 @@
-﻿Console.Write("Введите произвольное число = "); 
+﻿Start:
+Console.Write("Введите произвольное число = "); 
 int num = int.Parse(Console.ReadLine()); 
 
 if ((num % 2) ==0)
